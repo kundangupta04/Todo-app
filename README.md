@@ -24,9 +24,3 @@ Clone the repository:
 git clone https://github.com/your-username/todo-app.git
 cd todo-app
 
----
-
-Install dependencies:
-```bash
-npm install
-
