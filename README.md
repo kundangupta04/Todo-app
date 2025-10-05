@@ -22,5 +22,5 @@ Built with [React]
 Clone the repository:
 ```bash
 git clone https://github.com/kundangupta04/Todo-app.git
-cd todo-app
+cd Todo-app
 
